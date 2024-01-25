@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-I'm [Your Name], a passionate Python developer with a keen interest in web development and automation. I find joy in crafting efficient, elegant solutions that streamline processes and enhance user experiences.
+I'm Ntungufhadzeni Mbudzeni, a passionate Python developer with a keen interest in web development and automation. I find joy in crafting efficient, elegant solutions that streamline processes and enhance user experiences.
 
 ## 🐍 Python Enthusiast
 
